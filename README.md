@@ -22,7 +22,12 @@ This is a simple, customizable password generator built with Django Framework. I
    pip install -r requirements.txt
 
 ## Screenshots
+- Main Program View
+  
 ![Screenshot 2024-06-25 185103](https://github.com/user-attachments/assets/a1a3dc87-1679-48a8-9687-d5b9e3206ace)
+
+- Sample Output
+  
 ![Screenshot 2024-06-25 185230](https://github.com/user-attachments/assets/a00345a5-4e1a-4ef7-bb6e-df1e498a2cb1)
 
 
